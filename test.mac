@@ -1,0 +1,22 @@
+import StreamExter;
+
+var f=TStreamDoc("test-866to65001","W","utf8");
+
+f.WriteLine("ษอออออออออออออออออออออออหออออออออออออออออออออออออออป");
+f.WriteLine("บ ฺฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤืฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฟ บ");
+f.WriteLine("บ ณ€…๐  12 บ ABCDEFGHIJKLM          ณ บ");
+f.WriteLine("บ ณ‘’“”•–—  34 บ NOPQRSTUVWXYZ          ณ บ");
+f.WriteLine("บ ณ                  56 บ                        ณ บ");
+f.WriteLine("บ ณ กขฃคฅ๑ฆงจชซฌญฎฏ  78 บ abcdefghijklm          ณ บ");
+f.WriteLine("บ ณเแโใไๅๆ็่้๊๋์ํ๎๏  90 บ nopqrstuvwxyz          ณ บ");
+f.WriteLine("บ ณü                    บ                        ณ บ");
+f.WriteLine("บ รฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤืฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤด บ");
+f.WriteLine("บ ณ !@#$%^&*()_+|-=\\    บ                        ณ บ");
+f.WriteLine("บ ณ {}[]:\";'<>?,./      บ                        ณ บ");
+f.WriteLine("บ ณ                     บ                        ณ บ");
+f.WriteLine("บ ณ                     บ                        ณ บ");
+f.WriteLine("บ ณ                     บ                        ณ บ");
+f.WriteLine("บ ณ                     บ                        ณ บ");
+f.WriteLine("บ ภฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤืฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤู บ");
+f.WriteLine("ศอออออออออออออออออออออออสออออออออออออออออออออออออออผ");
+f=null;
