@@ -1,3 +1,5 @@
-BankInter.mac:
+DLM для RSL. 
 
-import StreamExter;
+Функиональность класса TStreamDoc в объёме, минимально необходимом для использования библиотеки XCR вне RS-Bank, например из под rsrti.exe из RS-Forms.
+
+Файлы в кодировке cp866.
